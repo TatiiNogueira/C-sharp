@@ -1,0 +1,16 @@
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.Form1.resources
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.csproj.GenerateResource.cache
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.AssemblyInfoInputs.cache
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.AssemblyInfo.cs
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.csproj.CoreCompileInputs.cache
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\bin\Debug\net8.0-windows\Calculadora_Simples.exe
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\bin\Debug\net8.0-windows\Calculadora_Simples.deps.json
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\bin\Debug\net8.0-windows\Calculadora_Simples.runtimeconfig.json
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\bin\Debug\net8.0-windows\Calculadora_Simples.dll
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\bin\Debug\net8.0-windows\Calculadora_Simples.pdb
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.dll
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\refint\Calculadora_Simples.dll
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.pdb
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\Calculadora_Simples.genruntimeconfig.cache
+D:\Estudo\C#\Calculadora_Simples\Calculadora_Simples\obj\Debug\net8.0-windows\ref\Calculadora_Simples.dll
