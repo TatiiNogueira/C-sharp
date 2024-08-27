@@ -36,7 +36,7 @@
             lb_Resultado = new Label();
             rb_Soma = new RadioButton();
             rb_Subtração = new RadioButton();
-            rd_Multiplicacao = new RadioButton();
+            rb_Multiplicacao = new RadioButton();
             rb_Divisao = new RadioButton();
             lb_Operacoes = new Label();
             button1 = new Button();
@@ -121,18 +121,18 @@
             rb_Subtração.UseVisualStyleBackColor = true;
             rb_Subtração.CheckedChanged += rb_Subtração_CheckedChanged;
             // 
-            // rd_Multiplicacao
+            // rb_Multiplicacao
             // 
-            rd_Multiplicacao.AutoSize = true;
-            rd_Multiplicacao.ForeColor = SystemColors.ButtonHighlight;
-            rd_Multiplicacao.Location = new Point(350, 168);
-            rd_Multiplicacao.Name = "rd_Multiplicacao";
-            rd_Multiplicacao.Size = new Size(141, 29);
-            rd_Multiplicacao.TabIndex = 8;
-            rd_Multiplicacao.TabStop = true;
-            rd_Multiplicacao.Text = "Multiplicação";
-            rd_Multiplicacao.UseVisualStyleBackColor = true;
-            rd_Multiplicacao.CheckedChanged += rd_Multiplicacao_CheckedChanged;
+            rb_Multiplicacao.AutoSize = true;
+            rb_Multiplicacao.ForeColor = SystemColors.ButtonHighlight;
+            rb_Multiplicacao.Location = new Point(350, 168);
+            rb_Multiplicacao.Name = "rb_Multiplicacao";
+            rb_Multiplicacao.Size = new Size(141, 29);
+            rb_Multiplicacao.TabIndex = 8;
+            rb_Multiplicacao.TabStop = true;
+            rb_Multiplicacao.Text = "Multiplicação";
+            rb_Multiplicacao.UseVisualStyleBackColor = true;
+            rb_Multiplicacao.CheckedChanged += rd_Multiplicacao_CheckedChanged;
             // 
             // rb_Divisao
             // 
@@ -188,7 +188,7 @@
             Controls.Add(button1);
             Controls.Add(lb_Operacoes);
             Controls.Add(rb_Divisao);
-            Controls.Add(rd_Multiplicacao);
+            Controls.Add(rb_Multiplicacao);
             Controls.Add(rb_Subtração);
             Controls.Add(rb_Soma);
             Controls.Add(lb_Resultado);
@@ -213,7 +213,7 @@
         private Label lb_Resultado;
         private RadioButton rb_Soma;
         private RadioButton rb_Subtração;
-        private RadioButton rd_Multiplicacao;
+        private RadioButton rb_Multiplicacao;
         private RadioButton rb_Divisao;
         private Label lb_Operacoes;
         private Button button1;
