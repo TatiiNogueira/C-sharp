@@ -1,0 +1,14 @@
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\bin\Debug\net8.0\Herancas.exe
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\bin\Debug\net8.0\Herancas.deps.json
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\bin\Debug\net8.0\Herancas.runtimeconfig.json
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\bin\Debug\net8.0\Herancas.dll
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\bin\Debug\net8.0\Herancas.pdb
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\Herancas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\Herancas.AssemblyInfoInputs.cache
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\Herancas.AssemblyInfo.cs
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\Herancas.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\Herancas.dll
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\refint\Herancas.dll
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\Herancas.pdb
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\Herancas.genruntimeconfig.cache
+C:\Users\Tatiana.Nogueira\source\repos\Herancas\Herancas\obj\Debug\net8.0\ref\Herancas.dll
