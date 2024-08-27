@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaWorshop", "BibliotecaWorshop\BibliotecaWorshop.csproj", "{309B95E4-244C-40DF-9976-1A6CB4102AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoPrincipal", "AplicacaoPrincipal\AplicacaoPrincipal.csproj", "{25A82F48-50CB-4481-A58A-723A19453336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309B95E4-244C-40DF-9976-1A6CB4102AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309B95E4-244C-40DF-9976-1A6CB4102AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309B95E4-244C-40DF-9976-1A6CB4102AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309B95E4-244C-40DF-9976-1A6CB4102AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A82F48-50CB-4481-A58A-723A19453336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A82F48-50CB-4481-A58A-723A19453336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A82F48-50CB-4481-A58A-723A19453336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A82F48-50CB-4481-A58A-723A19453336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31EF6395-D6BF-409C-84C4-16CFCCFBC21E}
+	EndGlobalSection
+EndGlobal

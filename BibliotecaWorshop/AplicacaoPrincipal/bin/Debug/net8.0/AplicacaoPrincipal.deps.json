@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AplicacaoPrincipal/1.0.0": {
+        "dependencies": {
+          "BibliotecaWorshop": "1.0.0"
+        },
+        "runtime": {
+          "AplicacaoPrincipal.dll": {}
+        }
+      },
+      "BibliotecaWorshop/1.0.0": {
+        "runtime": {
+          "BibliotecaWorshop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicacaoPrincipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaWorshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
