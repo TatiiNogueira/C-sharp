@@ -1,0 +1,29 @@
+Matriz Bidimensional -> Estrutura de Dados que armazena elementos de duas dimensões,
+onde cada elemento é acessado por meio de dois índices x, y
+EX: Uma matriz 2 x 5, é constituida por 2 linhas e 5 colunas
+1 2 3 4 5
+5 4 3 2 1
+-------------------------------------------------------------
+Lista Encadeada/Lista Ligada
+Estrutura linear composta por uma sequência de nós, onde cada nó armazena um valor
+e uma referência para o próximo nó na lista.
+Tipos:
+Lista Simplesmente Encadeada --> Cada nó contém um valor e por sua vez uma referência
+ao próximo nó.
+EX: 
+	[Valor1] -> [Valor2] -> [Valor3] -> null
+
+Lista Duplamente Encadeada --> Cada nó contém um valor e por sua vez uma referência
+ao próximo nó e para o nó anteriror.
+EX:
+	null <- [Valor1] <-> [Valor2] <-> [Valor3] -> null
+
+Lista Circular --> Cada nó contém um valor e por sua vez uma referência
+ao próximo nó e o último nó aponta para o primeiro nós, fazendo assim um ciclo.
+Pode ser do tipo Simplesmente ou Duplamente Encadeada, desde que o último valor faça referência
+ao primeiro valor.
+EX:
+	[Valor1] -> [Valor2] -> [Valor3] -> [Valor1] (Simplesmente Encadeada)
+	[Valor1] <-> [Valor2] <-> [Valor3] <-> [Valor1] (Duplamente Encadeada)
+
+-------------------------------------------------------------
