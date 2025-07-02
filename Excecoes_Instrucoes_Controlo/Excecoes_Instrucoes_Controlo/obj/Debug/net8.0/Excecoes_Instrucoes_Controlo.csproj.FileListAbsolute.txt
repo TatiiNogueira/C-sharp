@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\bin\Debug\net8.0\Excecoes_Instrucoes_Controlo.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\bin\Debug\net8.0\Excecoes_Instrucoes_Controlo.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\bin\Debug\net8.0\Excecoes_Instrucoes_Controlo.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\bin\Debug\net8.0\Excecoes_Instrucoes_Controlo.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\bin\Debug\net8.0\Excecoes_Instrucoes_Controlo.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\Excecoes_Instrucoes_Controlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\Excecoes_Instrucoes_Controlo.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\Excecoes_Instrucoes_Controlo.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\Excecoes_Instrucoes_Controlo.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\Excecoes_Instrucoes_Controlo.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\refint\Excecoes_Instrucoes_Controlo.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\Excecoes_Instrucoes_Controlo.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\Excecoes_Instrucoes_Controlo.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Excecoes_Instrucoes_Controlo\Excecoes_Instrucoes_Controlo\obj\Debug\net8.0\ref\Excecoes_Instrucoes_Controlo.dll
