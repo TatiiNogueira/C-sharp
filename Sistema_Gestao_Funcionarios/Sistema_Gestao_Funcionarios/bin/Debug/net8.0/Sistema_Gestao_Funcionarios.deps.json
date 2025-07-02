@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema_Gestao_Funcionarios/1.0.0": {
+        "runtime": {
+          "Sistema_Gestao_Funcionarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema_Gestao_Funcionarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

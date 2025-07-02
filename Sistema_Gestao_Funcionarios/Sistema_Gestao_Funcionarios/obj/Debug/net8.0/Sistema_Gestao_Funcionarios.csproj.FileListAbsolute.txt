@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\bin\Debug\net8.0\Sistema_Gestao_Funcionarios.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\bin\Debug\net8.0\Sistema_Gestao_Funcionarios.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\bin\Debug\net8.0\Sistema_Gestao_Funcionarios.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\bin\Debug\net8.0\Sistema_Gestao_Funcionarios.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\bin\Debug\net8.0\Sistema_Gestao_Funcionarios.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\Sistema_Gestao_Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\Sistema_Gestao_Funcionarios.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\Sistema_Gestao_Funcionarios.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\Sistema_Gestao_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\Sistema_Gestao_Funcionarios.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\refint\Sistema_Gestao_Funcionarios.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\Sistema_Gestao_Funcionarios.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\Sistema_Gestao_Funcionarios.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Sistema_Gestao_Funcionarios\Sistema_Gestao_Funcionarios\obj\Debug\net8.0\ref\Sistema_Gestao_Funcionarios.dll
