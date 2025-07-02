@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\bin\Debug\net8.0\Operadores_Eventos.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\bin\Debug\net8.0\Operadores_Eventos.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\bin\Debug\net8.0\Operadores_Eventos.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\bin\Debug\net8.0\Operadores_Eventos.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\bin\Debug\net8.0\Operadores_Eventos.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\Operadores_Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\Operadores_Eventos.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\Operadores_Eventos.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\Operadores_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\Operadores_Eventos.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\refint\Operadores_Eventos.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\Operadores_Eventos.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\Operadores_Eventos.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Operadores_Eventos\Operadores_Eventos\obj\Debug\net8.0\ref\Operadores_Eventos.dll

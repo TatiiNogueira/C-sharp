@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\bin\Debug\net8.0\Metodo_Parametros.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\bin\Debug\net8.0\Metodo_Parametros.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\bin\Debug\net8.0\Metodo_Parametros.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\bin\Debug\net8.0\Metodo_Parametros.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\bin\Debug\net8.0\Metodo_Parametros.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\Metodo_Parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\Metodo_Parametros.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\Metodo_Parametros.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\Metodo_Parametros.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\Metodo_Parametros.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\refint\Metodo_Parametros.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\Metodo_Parametros.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\Metodo_Parametros.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Metodo_Parametros\Metodo_Parametros\obj\Debug\net8.0\ref\Metodo_Parametros.dll

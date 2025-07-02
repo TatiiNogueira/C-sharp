@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\bin\Debug\net8.0\Primeiro_Programa.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\bin\Debug\net8.0\Primeiro_Programa.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\bin\Debug\net8.0\Primeiro_Programa.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\bin\Debug\net8.0\Primeiro_Programa.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\bin\Debug\net8.0\Primeiro_Programa.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\Primeiro_Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\Primeiro_Programa.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\Primeiro_Programa.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\Primeiro_Programa.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\Primeiro_Programa.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\refint\Primeiro_Programa.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\Primeiro_Programa.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\Primeiro_Programa.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Primeiro_Programa\Primeiro_Programa\obj\Debug\net8.0\ref\Primeiro_Programa.dll
