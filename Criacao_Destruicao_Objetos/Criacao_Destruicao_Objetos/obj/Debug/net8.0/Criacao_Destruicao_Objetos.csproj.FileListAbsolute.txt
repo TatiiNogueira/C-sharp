@@ -1,0 +1,15 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\bin\Debug\net8.0\Criacao_Destruicao_Objetos.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\bin\Debug\net8.0\Criacao_Destruicao_Objetos.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\bin\Debug\net8.0\Criacao_Destruicao_Objetos.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\bin\Debug\net8.0\Criacao_Destruicao_Objetos.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\bin\Debug\net8.0\Criacao_Destruicao_Objetos.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\Criacao_Destruicao_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\Criacao_Destruicao_Objetos.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\Criacao_Destruicao_Objetos.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\Criacao_Destruicao_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\Criacao_Destruicao_Objetos.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\refint\Criacao_Destruicao_Objetos.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\Criacao_Destruicao_Objetos.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\Criacao_Destruicao_Objetos.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\obj\Debug\net8.0\ref\Criacao_Destruicao_Objetos.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Criacao_Destruicao_Objetos\Criacao_Destruicao_Objetos\bin\Debug\net8.0\Exemplo.txt

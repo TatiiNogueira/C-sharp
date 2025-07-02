@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\bin\Debug\net8.0\Agregacao_Namespaces.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\bin\Debug\net8.0\Agregacao_Namespaces.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\bin\Debug\net8.0\Agregacao_Namespaces.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\bin\Debug\net8.0\Agregacao_Namespaces.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\bin\Debug\net8.0\Agregacao_Namespaces.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\Agregacao_Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\Agregacao_Namespaces.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\Agregacao_Namespaces.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\Agregacao_Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\Agregacao_Namespaces.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\refint\Agregacao_Namespaces.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\Agregacao_Namespaces.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\Agregacao_Namespaces.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Agregacao_Namespaces\Agregacao_Namespaces\obj\Debug\net8.0\ref\Agregacao_Namespaces.dll

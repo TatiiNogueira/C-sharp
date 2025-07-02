@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\bin\Debug\net8.0\Atividades.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\bin\Debug\net8.0\Atividades.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\bin\Debug\net8.0\Atividades.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\bin\Debug\net8.0\Atividades.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\bin\Debug\net8.0\Atividades.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\Atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\Atividades.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\Atividades.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\Atividades.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\Atividades.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\refint\Atividades.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\Atividades.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\Atividades.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Atividades\Atividades\obj\Debug\net8.0\ref\Atividades.dll

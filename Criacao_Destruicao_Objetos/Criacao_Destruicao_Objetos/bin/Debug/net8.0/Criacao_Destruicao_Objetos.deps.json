@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Criacao_Destruicao_Objetos/1.0.0": {
+        "runtime": {
+          "Criacao_Destruicao_Objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Criacao_Destruicao_Objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
