@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\bin\Debug\net8.0\Reutilizar_Namespace_Global_Using.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\bin\Debug\net8.0\Reutilizar_Namespace_Global_Using.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\bin\Debug\net8.0\Reutilizar_Namespace_Global_Using.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\bin\Debug\net8.0\Reutilizar_Namespace_Global_Using.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\bin\Debug\net8.0\Reutilizar_Namespace_Global_Using.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\Reutilizar_Namespace_Global_Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\Reutilizar_Namespace_Global_Using.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\Reutilizar_Namespace_Global_Using.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\Reutilizar_Namespace_Global_Using.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\Reutilizar_Namespace_Global_Using.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\refint\Reutilizar_Namespace_Global_Using.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\Reutilizar_Namespace_Global_Using.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\Reutilizar_Namespace_Global_Using.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Reutilizar_Namespace_Global_Using\Reutilizar_Namespace_Global_Using\obj\Debug\net8.0\ref\Reutilizar_Namespace_Global_Using.dll

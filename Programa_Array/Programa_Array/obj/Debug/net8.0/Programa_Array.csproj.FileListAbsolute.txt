@@ -1,0 +1,14 @@
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\Programa_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\Programa_Array.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\Programa_Array.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\Programa_Array.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\bin\Debug\net8.0\Programa_Array.exe
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\bin\Debug\net8.0\Programa_Array.deps.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\bin\Debug\net8.0\Programa_Array.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\bin\Debug\net8.0\Programa_Array.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\bin\Debug\net8.0\Programa_Array.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\Programa_Array.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\refint\Programa_Array.dll
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\Programa_Array.pdb
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\Programa_Array.genruntimeconfig.cache
+C:\Users\Tatiana\Desktop\Curso ASP.NET\3935\Exercicios\Programa_Array\Programa_Array\obj\Debug\net8.0\ref\Programa_Array.dll
